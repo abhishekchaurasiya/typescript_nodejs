@@ -1,4 +1,4 @@
-import { Mongoose, model, Schema, Document, Model, models } from "mongoose";
+import {  model, Schema, Document, Model } from "mongoose";
 
 enum Gender {
     Male = 0,

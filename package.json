@@ -1,11 +1,11 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.js",
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "nodemon dist/index",
+    "start": "nodemon dist/server",
     "watch": "tsc -w",
     "dev": "concurrently \"npm run watch\" \"npm run start\"",
     "prepare": "husky"

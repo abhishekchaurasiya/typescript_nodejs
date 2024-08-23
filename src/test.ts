@@ -1,1 +1,1 @@
-console.log("husky")
+console.log("husky setup complete")

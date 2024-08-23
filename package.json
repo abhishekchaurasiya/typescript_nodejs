@@ -4,7 +4,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node dist/test",
     "build": "tsc",
     "start": "nodemon dist/index",
     "watch": "tsc -w",
